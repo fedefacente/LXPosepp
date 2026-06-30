@@ -1,0 +1,32 @@
+antspyx==0.5.4
+diffdrr==0.5.1
+huggingface-hub==0.33.0
+jaxtyping==0.3.2
+kornia==0.8.1
+matplotlib==3.10.3
+networkx==3.5
+nibabel==5.3.2
+numpy==2.0.1
+opencv-python==4.11.0.86
+pandas==2.3.0
+pillow==11.2.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydicom==3.0.1
+pytorch-transformers==1.2.0
+pytz==2025.2
+pyvista==0.45.2
+scipy==1.15.3
+seaborn==0.13.2
+setuptools==75.6.0
+simpleitk==2.5.0
+stack-data @ file:///opt/conda/conda-bld/stack_data_1646927590127/work
+statsmodels==0.14.4
+timm==1.0.15
+torch==2.7.1
+torchio==0.20.8
+torchvision==0.22.1
+tqdm==4.67.1
+vtk==9.4.2
+wandb==0.20.1
+xvr @ git+https://github.com/eigenvivek/xvr.git@af8287cd6d8cf0bad4cb07d746a5fff7b1eeaecb
+yarl==1.20.1
