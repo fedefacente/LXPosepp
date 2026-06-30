@@ -45,6 +45,9 @@ slower, while remaining within the 40 ms real-time control budget.
 - `utils.py` : shared utilities (homography)
 
 
+## Pretrained Weights
+
+Pretrained model weights for both datasets are hosted on [Hugging Face](https://huggingface.co/fedefacente/LXPosepp).
 
 ## Contact
 
