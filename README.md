@@ -5,8 +5,8 @@
 
 - [Overview](#overview)
 - [Content](#content)
+- [Pretrained Weights](#pretrained-weights)
 - [Contact](#contact)
-- [Pretrained Weights](#pretrainedweights)
 
 ## Overview
 
