@@ -48,7 +48,7 @@ slower, while remaining within the 40 ms real-time control budget.
 
 ## Pretrained Weights
 
-Pretrained model weights for both datasets are hosted on [Hugging Face](https://huggingface.co/fedefacente/LXPosepp).
+Pretrained model weights for both datasets are hosted on [Hugging Face](https://huggingface.co/fedefacente/LXPosepp/tree/main).
 
 ## Contact
 
